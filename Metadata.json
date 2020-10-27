@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 6822,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-unused-vhd-report/master/AzureVHDv2.ps1",
+    "DownloadCount": 1914,
+    "Id": "Azure-unused-Vhd-Report-63298380",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 252,
+    "RaterCount": 5,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-4-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script will go through your Azure subscription and find all vhd\u2019s on storage accounts. It will match those that are attached to the virtual machines to those found. This way you can determine if you have orphaned vhd\u2019s that are no longer use by virtual machine.",
+    "Title": "Azure unused Vhd Report",
+    "UpdatedDate": "2017-7-27T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-unused-vhd-report",
+    "UserTags": "azure vm, storage account, azure storage"
+}
